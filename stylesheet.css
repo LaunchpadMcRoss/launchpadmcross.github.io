@@ -1,0 +1,36 @@
+body {
+	background-color: #111111;
+	color: #FFFFFF;
+}
+
+#head {
+	position: static;
+	border: 2px solid blue;
+	height: 50px;
+	margin-top: -25px;
+}
+
+#title {
+	font-size: 24px;
+	text-align: center;
+}
+
+#logo {
+	height: 9%;
+	width: 9%;
+	clear: both;
+}
+
+#nav {
+	position: absolute;
+	left: 0px;
+	width: 200px;
+	border: 2px solid red;
+	height: 600px;
+}
+
+#section {
+	margin-left: 200px;
+	border: 2px solid black;
+	
+}
